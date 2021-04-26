@@ -257,6 +257,10 @@ const StyledTable = styled(Table)`
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+
+    :hover {
+      color: white;
+    }
   }
 
   & .showTime {
