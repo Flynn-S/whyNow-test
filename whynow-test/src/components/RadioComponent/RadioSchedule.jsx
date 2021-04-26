@@ -54,7 +54,7 @@ export default class RadioSchedule extends React.Component {
                   </td>
                   <td className="showTitle" colSpan="12">
                     <div className="show-info-box">
-                      <div className="image-container">
+                      <div className="image-container d-none d-sm-block">
                         <img
                           src="https://whynow.co.uk/wp-content/uploads/2021/03/Jamie-Rodigan-Kabaka-Pyramid-Kaylee-Kay-site-720x720.jpg"
                           alt="show profile"
@@ -80,7 +80,7 @@ export default class RadioSchedule extends React.Component {
                   </td>
                   <td className="showTitle" colSpan="12">
                     <div className="show-info-box">
-                      <div className="image-container">
+                      <div className="image-container d-none d-sm-block">
                         <img
                           src="https://whynow.co.uk/wp-content/uploads/2021/03/Laurie-Bryan-SQ-site-720x720.jpg"
                           alt="show profile"
@@ -117,7 +117,7 @@ export default class RadioSchedule extends React.Component {
                   </td>
                   <td className="showTitle" colSpan="12">
                     <div className="show-info-box">
-                      <div className="image-container">
+                      <div className="image-container d-none d-sm-block">
                         <img
                           src="https://whynow.co.uk/wp-content/uploads/2021/03/Screenshot-2021-03-01-at-12.12.55-720x720.png"
                           alt="show profile"
@@ -154,7 +154,7 @@ export default class RadioSchedule extends React.Component {
                   </td>
                   <td className="showTitle" colSpan="12">
                     <div className="show-info-box">
-                      <div className="image-container">
+                      <div className="image-container d-none d-sm-block">
                         <img
                           src="https://whynow.co.uk/wp-content/uploads/2021/03/lester-Lloyd-SQ-site-720x720.jpg"
                           alt="show profile"
@@ -264,8 +264,6 @@ const StyledTable = styled(Table)`
   }
 
   & .image-container {
-    width: 60px;
-    min-width: 60px;
     max-height: 70px;
     margin-right: 1rem;
     position: relative;
