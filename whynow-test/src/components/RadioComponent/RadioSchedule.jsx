@@ -56,7 +56,7 @@ export default class RadioSchedule extends React.Component {
                     <div className="show-info-box">
                       <div className="image-container d-none d-sm-block">
                         <img
-                          src="https://whynow.co.uk/wp-content/uploads/2021/03/Jamie-Rodigan-Kabaka-Pyramid-Kaylee-Kay-site-720x720.jpg"
+                          src="https://whynow.co.uk/wp-content/uploads/2021/06/weekly-asset-summer-of-soul-720x720.png"
                           alt="show profile"
                         />
                         <button
@@ -82,7 +82,7 @@ export default class RadioSchedule extends React.Component {
                     <div className="show-info-box">
                       <div className="image-container d-none d-sm-block">
                         <img
-                          src="https://whynow.co.uk/wp-content/uploads/2021/03/Laurie-Bryan-SQ-site-720x720.jpg"
+                          src="https://whynow.co.uk/wp-content/uploads/2021/06/laurie-with-degs-SQ-site-720x720.jpg"
                           alt="show profile"
                         />
                         <button
@@ -119,7 +119,7 @@ export default class RadioSchedule extends React.Component {
                     <div className="show-info-box">
                       <div className="image-container d-none d-sm-block">
                         <img
-                          src="https://whynow.co.uk/wp-content/uploads/2021/03/Screenshot-2021-03-01-at-12.12.55-720x720.png"
+                          src="https://d1ckhr8qane6df.cloudfront.net/wp-content/uploads/2021/06/18152458/Screenshot-2021-06-18-at-16.15.18-720x720.png"
                           alt="show profile"
                         />
                         <button
@@ -156,7 +156,7 @@ export default class RadioSchedule extends React.Component {
                     <div className="show-info-box">
                       <div className="image-container d-none d-sm-block">
                         <img
-                          src="https://whynow.co.uk/wp-content/uploads/2021/03/lester-Lloyd-SQ-site-720x720.jpg"
+                          src="https://whynow.co.uk/wp-content/uploads/2021/06/intergalactic-crud-w-international-joe-720x720.png"
                           alt="show profile"
                         />
                         <button
